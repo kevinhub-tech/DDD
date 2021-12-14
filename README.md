@@ -26,6 +26,7 @@ There is not much to showcase in this criteria as the module was about understan
 
 - Implemented a database design patterns
 - Developed a database based on those design patterns
+- Normalized Database system to its final version to inter-relate the tables
 - Integrated tables inside the database to perform functions
 - Acquired knowledge of database queries to create a operation upon datas
 - Elaborated on how database solutions are integrated with the system
